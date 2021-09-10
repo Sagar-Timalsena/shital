@@ -5,7 +5,7 @@
 
 ___
 Demo Image
-![Demo](/img/Screenshot(60).png)
+[Demo](https://github.com/Sagar1555/shital/blob/main/img/Screenshot%20(60).png)
 
 
 
