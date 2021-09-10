@@ -5,7 +5,7 @@
 
 ___
 Demo Image
-![Site](/img/Screenshot(60).png)
+![Demo](/img/Screenshot(60).png)
 
 
 
