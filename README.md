@@ -6,6 +6,6 @@
 ___
 Demo Image
 
-![GitHub Logo](/images/profile.jpg)
+![Site](/img/profile.jpg)
 
 
