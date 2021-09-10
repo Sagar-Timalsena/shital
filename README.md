@@ -8,6 +8,4 @@ Demo Image
 
 ![Site](/img/Screenshot(60).png)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
 
