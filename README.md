@@ -8,7 +8,7 @@ Demo Image
 ![Demo](/img/Screenshot%20(60).png)
 
 ___
-![Website Link](http://shitalthapa.com.np/)
+[Website Link](http://shitalthapa.com.np/)
 
 
 
