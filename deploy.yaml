@@ -12,7 +12,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Deploy to InfinityFree
-        uses: SamKirkland/FTP-Deploy-Action@4.0.0
+        uses: devSaagar/FTP-Deploy-Action@4.0.0
         with:
           server: ftpupload.net
           username: epiz_30881832
