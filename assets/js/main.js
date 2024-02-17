@@ -139,12 +139,25 @@
   /**
    * Hero type effect
    */
-  const typed = select('.typed')
+  const typed = document.querySelector('.typed');
   if (typed) {
-    let typed_strings = typed.getAttribute('data-typed-items')
-    typed_strings = typed_strings.split(',')
+    let typed_strings = typed.getAttribute('data-typed-items');
+    typed_strings = typed_strings.split(',');
     new Typed('.typed', {
       strings: typed_strings,
+      loop: true,
+      typeSpeed: 100,
+      backSpeed: 50,
+      backDelay: 2000
+    });
+  }
+
+  const typedone = document.querySelector('.typedone');
+  if (typedone) {
+    let typedone_strings = typedone.getAttribute('data-typed-items');
+    typedone_strings = typedone_strings.split(',');
+    new Typed('.typedone', {
+      strings: typedone_strings,
       loop: true,
       typeSpeed: 100,
       backSpeed: 50,
